@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "key": "id",
+      "label": "ID",
+      "visible": true,
+      "allowHide": true,
+      "width": "50px"
+    },
+    {
+      "key": "assigner.name",
+      "label": "Assigner",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "agent.name",
+      "label": "Assigned To",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "lead.name",
+      "label": "Lead Name",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "lead.defaultMobile.mobile",
+      "label": "Lead mobile",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "created_at",
+      "label": "Assigned Date",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "lead.franchise.name",
+      "label": "Franchise",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "actions",
+      "label": "",
+      "visible": true,
+      "allowHide": false,
+      "width": "150px"
+    }
+  ]
+}

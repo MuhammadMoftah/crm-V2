@@ -1,0 +1,46 @@
+{
+    "fields":[
+      {
+        "key":"id",
+        "label":"ID",
+        "visible":true,
+        "allowHide":true,
+        "width" : "50px"
+      },
+      {
+        "key":"lead.name",
+        "label":"Lead Name",
+        "visible":true,
+        "allowHide":true,
+        "width" : "100px"
+      },
+      {
+        "key":"lead.defaultMobile",
+        "label":"Mobile",
+        "visible":true,
+        "allowHide":true,
+        "width" : "100px"
+      },
+      {
+        "key":"developer.name",
+        "label":"Developer Name",
+        "visible":true,
+        "allowHide":true,
+        "width" : "100px"
+      },
+      {
+        "key":"status",
+        "label":"Status",
+        "visible":true,
+        "allowHide":true,
+        "width" : "100px"
+      },
+      {
+        "key":"actions",
+        "label":"",
+        "visible":true,
+        "allowHide":false,
+        "width" : "150px"
+      }
+    ]
+  }

@@ -1,0 +1,28 @@
+{
+  "fields": [
+    {
+      "key": "id",
+      "label": "ID",
+      "visible": true,
+      "allowHide": true
+    },
+    {
+      "key": "name",
+      "label": "name",
+      "visible": true,
+      "allowHide": true
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "visible": true,
+      "allowHide": true
+    },
+    {
+      "key": "actions",
+      "label": "",
+      "visible": true,
+      "allowHide": false
+    }
+  ]
+}

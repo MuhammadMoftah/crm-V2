@@ -1,0 +1,81 @@
+{
+    "fields":[
+      {
+        "key":"id",
+        "label":"ID",
+        "visible":true,
+        "allowHide":true,
+        "width" : "50px"
+      },
+      {
+        "key":"name",
+        "label":"Name",
+        "visible":true,
+        "allowHide":true,
+        "width" : "100px"
+      },
+      {
+        "key":"start_date",
+        "label":"Starting Date",
+        "visible":true,
+        "allowHide":true,
+        "width" : "100px"
+      },
+      {
+        "key":"end_date",
+        "label":"End Date",
+        "visible":true,
+        "allowHide":true,
+        "width" : "100px"
+      },
+      {
+        "key":"lead_source.name",
+        "label":"Lead Source",
+        "visible":true,
+        "allowHide":true,
+        "width" : "100px"
+      },
+      {
+        "key":"project.name",
+        "label":"Project",
+        "visible":true,
+        "allowHide":true,
+        "width" : "100px"
+      },
+      {
+        "key":"developer.name",
+        "label":"Developer",
+        "visible":true,
+        "allowHide":true,
+        "width" : "100px"
+      },
+      {
+        "key":"franchise.name",
+        "label":"Franchise",
+        "visible":true,
+        "allowHide":true,
+        "width" : "100px"
+      },
+      {
+        "key":"expected_budget",
+        "label":"Expected Budget",
+        "visible":true,
+        "allowHide":true,
+        "width" : "100px"
+      },
+      {
+        "key":"status",
+        "label":"Status",
+        "visible":true,
+        "allowHide":true,
+        "width" : "100px"
+      },
+      {
+        "key":"actions",
+        "label":"",
+        "visible":true,
+        "allowHide":false,
+        "width" : "150px"
+      }
+    ]
+  }

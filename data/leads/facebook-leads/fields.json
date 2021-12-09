@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "key": "id",
+      "label": "ID",
+      "visible": true,
+      "allowHide": true,
+      "width": "60px"
+    },
+    {
+      "key": "full_name",
+      "label": "name",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "phone_number",
+      "label": "Mobile",
+      "visible": true,
+      "allowHide": true,
+      "width": "200px"
+    },
+    {
+      "key": "facebook_lead_id",
+      "label": "Facebook ID",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "facebook_ad.facebook_ad_name",
+      "label": "Facebook AD",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "facebook_leadgen.facebook_page.name",
+      "label": "facebook campaign",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "more_data",
+      "label": "",
+      "visible": true,
+      "allowHide": true,
+      "width": "80px"
+    },
+    {
+      "key": "actions",
+      "label": "",
+      "visible": false,
+      "allowHide": false,
+      "width": "100px"
+    }
+  ]
+}

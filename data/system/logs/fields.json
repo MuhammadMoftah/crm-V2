@@ -1,0 +1,53 @@
+{
+    "fields":[
+      {
+        "key":"id",
+        "label":"ID",
+        "visible":true,
+        "allowHide":true,
+        "width" : "50px"
+      },
+      {
+        "key":"log_name",
+        "label":"Module Name",
+        "visible":true,
+        "allowHide":true,
+        "width" : "150px"
+      },
+      {
+        "key":"description",
+        "label":"description",
+        "visible":true,
+        "allowHide":true,
+        "width" : "150px"
+      },
+      {
+        "key":"subject.name",
+        "label":"Subject",
+        "visible":true,
+        "allowHide":true,
+        "width" : "150px"
+      },
+      {
+        "key":"causer.name",
+        "label":"By Agent",
+        "visible":true,
+        "allowHide":true,
+        "width" : "150px"
+      },
+      {
+        "key":"created_at",
+        "label":"Created Date",
+        "visible":true,
+        "allowHide":true,
+        "width" : "150px"
+      },
+      {
+        "key":"actions",
+        "label":"",
+        "visible":true,
+        "allowHide":false,
+        "width" : "150px"
+      }
+    ]
+  }

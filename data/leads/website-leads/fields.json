@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "key": "id",
+      "label": "ID",
+      "visible": true,
+      "allowHide": true,
+      "width": "60px"
+    },
+    {
+      "key": "name",
+      "label": "name",
+      "visible": true,
+      "allowHide": true,
+      "width": "200px"
+    },
+    {
+      "key": "phone",
+      "label": "Mobile",
+      "visible": true,
+      "allowHide": true,
+      "width": "200px"
+    },
+    {
+      "key": "website",
+      "label": "website",
+      "visible": true,
+      "allowHide": true,
+      "width": "250px"
+    },
+    {
+      "key": "created_at",
+      "label": "Created at",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "more_data",
+      "label": "",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "actions",
+      "label": "",
+      "visible": false,
+      "allowHide": false,
+      "width": "150px"
+    }
+  ]
+}

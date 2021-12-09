@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "key": "id",
+      "label": "ID",
+      "visible": true,
+      "allowHide": true,
+      "width": "50px"
+    },
+    {
+      "key": "name",
+      "label": "name",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "mobile",
+      "label": "mobile",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "registration_id",
+      "label": "Registration ID",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "tax_id",
+      "label": "Tax ID",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "status",
+      "label": "status",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "actions",
+      "label": "",
+      "visible": true,
+      "allowHide": false,
+      "width": "150px"
+    }
+  ]
+}

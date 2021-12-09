@@ -1,0 +1,81 @@
+{
+  "fields": [
+    {
+      "key": "id",
+      "label": "ID",
+      "visible": true,
+      "allowHide": true,
+      "width": "50px"
+    },
+    {
+      "key": "amount",
+      "label": "amount",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "date",
+      "label": "date",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "type_of_payment",
+      "label": "payment",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "bank_name",
+      "label": "bank",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "transaction_number",
+      "label": "transaction No#",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "franchise.name",
+      "label": "franchise",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "chart_of_account.name",
+      "label": "Chart of account",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "branch.name",
+      "label": "Branch",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "details",
+      "label": "details",
+      "visible": true,
+      "allowHide": true,
+      "width": "200px"
+    },
+    {
+      "key": "actions",
+      "label": "",
+      "visible": true,
+      "allowHide": false,
+      "width": "150px"
+    }
+  ]
+}

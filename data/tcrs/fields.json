@@ -1,0 +1,60 @@
+{
+    "fields":[
+      {
+        "key":"id",
+        "label":"ID",
+        "visible":true,
+        "allowHide":true,
+        "width" : "50px"
+      },
+      {
+        "key":"lead.name",
+        "label":"Lead Name",
+        "visible":true,
+        "allowHide":false,
+        "width" : "150px"
+      },
+      {
+        "key":"lead.defaultMobile",
+        "label":"Mobile",
+        "visible":true,
+        "allowHide":true,
+        "width" : "200px"
+      },
+      {
+        "key":"agent.name",
+        "label":"Agent Name",
+        "visible":true,
+        "allowHide":false,
+        "width" : "150px"
+      },
+      {
+        "key":"unit_number",
+        "label":"Unit Number",
+        "visible":true,
+        "allowHide":false,
+        "width" : "150px"
+      },
+      {
+        "key":"unit_price",
+        "label":"Unit Price",
+        "visible":true,
+        "allowHide":false,
+        "width" : "150px"
+      },
+      {
+        "key":"status",
+        "label":"Status",
+        "visible":true,
+        "allowHide":false,
+        "width" : "150px"
+      },
+      {
+        "key":"actions",
+        "label":"",
+        "visible":true,
+        "allowHide":false,
+        "width" : "150px"
+      }
+    ]
+  }

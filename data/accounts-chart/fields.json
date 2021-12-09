@@ -1,0 +1,53 @@
+{
+  "fields": [
+    {
+      "key": "id",
+      "label": "ID",
+      "visible": true,
+      "allowHide": true,
+      "width": "50px"
+    },
+    {
+      "key": "name",
+      "label": "name",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "parent.name",
+      "label": "parent",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "code",
+      "label": "code",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "tags",
+      "label": "Tags",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "actions",
+      "label": "",
+      "visible": true,
+      "allowHide": false,
+      "width": "150px"
+    }
+  ]
+}

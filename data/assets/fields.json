@@ -1,0 +1,81 @@
+{
+  "fields": [
+    {
+      "key": "id",
+      "label": "ID",
+      "visible": true,
+      "allowHide": true,
+      "width": "50px"
+    },
+    {
+      "key": "barcode",
+      "label": "Barcode",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "vendor.name",
+      "label": "Vendor",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "category.name",
+      "label": "category",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "agent.name",
+      "label": "agent",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "price",
+      "label": "price",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "start_date",
+      "label": "Start date",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "end_date",
+      "label": "End date",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "warranty",
+      "label": "Warranty",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "actions",
+      "label": "",
+      "visible": true,
+      "allowHide": false,
+      "width": "150px"
+    }
+  ]
+}

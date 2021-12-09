@@ -1,0 +1,170 @@
+{
+  "Marketing": [
+    {
+      "name": "Lead Sources",
+      "icon": "facebook.svg",
+      "link": "/lead-sources",
+      "permission": "index-lead-source"
+    },
+    {
+      "name": "Channels",
+      "icon": "facebook.svg",
+      "link": "/channels",
+      "permission": "index-lead-channel"
+    },
+    {
+      "name": "Campaigns",
+      "icon": "facebook.svg",
+      "link": "/campaigns",
+      "permission": "index-campaign"
+    },
+    {
+      "name": "Units",
+      "icon": "facebook.svg",
+      "link": "/units",
+      "permission": "index-unit"
+    }
+  ],
+  "Leads": [
+    {
+      "name": "Lead Stages",
+      "image_icon": "facebook.svg",
+      "link": "/lead-stages",
+      "permission": "index-lead-stage"
+    },
+    {
+      "name": "Leads",
+      "image_icon": "facebook.svg",
+      "link": "/leads",
+      "permission": "index-lead"
+    },
+    {
+      "name": "Duplicate Leads",
+      "image_icon": "facebook.svg",
+      "link": "/duplicate-leads",
+      "permission": "view-duplicate-leads"
+    },
+    {
+      "name": "Facebook Leads",
+      "image_icon": "facebook.svg",
+      "link": "/facebook-leads",
+      "permission": "view-facebook-leads"
+    },
+    {
+      "name": "Website Leads",
+      "image_icon": "facebook.svg",
+      "link": "/website-leads",
+      "permission": "view-websites-leads"
+    }
+  ],
+  "Agents": [
+    {
+      "name": "Agents",
+      "image_icon": "facebook.svg",
+      "link": "/users",
+      "permission": "index-user"
+    },
+    {
+      "name": "Teams",
+      "image_icon": "facebook.svg",
+      "link": "/teams",
+      "permission": "index-franchise"
+    },
+    {
+      "name": "Owners",
+      "icon": "facebook.svg",
+      "link": "/owners",
+      "permission": "index-owner"
+    }
+  ],
+  "System": [
+    {
+      "name": "Assign Log",
+      "image_icon": "facebook.svg",
+      "link": "/system/assign-log",
+      "permission": "view-assign-logs"
+    },
+    {
+      "name": "System Log",
+      "image_icon": "facebook.svg",
+      "link": "/system/system-log"
+    },
+    {
+      "name": "Roles",
+      "image_icon": "facebook.svg",
+      "link": "/roles",
+      "permission": "index-role"
+    },
+    {
+      "name": "Departments",
+      "image_icon": "facebook.svg",
+      "link": "/departments",
+      "permission": "index-department"
+    },
+    {
+      "name": "Job positions",
+      "image_icon": "facebook.svg",
+      "link": "/job-positions"
+    },
+    {
+      "name": "Locations",
+      "image_icon": "facebook.svg",
+      "link": "/locations",
+      "permission": "index-location"
+    },
+    {
+      "name": "Unit Types",
+      "image_icon": "facebook.svg",
+      "link": "/unit-types",
+      "permission": "index-unit-type"
+    }
+  ],
+  "Company": [
+    {
+      "name": "Branches",
+      "image_icon": "facebook.svg",
+      "link": "/branches",
+      "permission": "index-branch"
+    },
+    {
+      "name": "Room Category",
+      "image_icon": "facebook.svg",
+      "link": "/room-category",
+      "permission": "index-room-category"
+    },
+    {
+      "name": "Rooms",
+      "image_icon": "facebook.svg",
+      "link": "/rooms",
+      "permission": "index-room"
+    },
+    {
+      "name": "Assets",
+      "image_icon": "facebook.svg",
+      "link": "/assets",
+      "permission": "index-asset"
+    },
+    {
+      "name": "Asset Category",
+      "image_icon": "facebook.svg",
+      "link": "/asset-category",
+      "permission": "index-category"
+    },
+    {
+      "name": "Vendors",
+      "image_icon": "facebook.svg",
+      "link": "/vendors",
+      "permission": "index-vendor"
+    },
+    {
+      "name": "Chart of accounts",
+      "image_icon": "facebook.svg",
+      "link": "/accounts-chart"
+    },
+    {
+      "name": "Invoices",
+      "image_icon": "facebook.svg",
+      "link": "/invoices"
+    }
+  ]
+}

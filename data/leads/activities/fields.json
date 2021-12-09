@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "key": "id",
+      "label": "ID",
+      "visible": true,
+      "allowHide": true,
+      "width": "50px"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "visible": true,
+      "allowHide": true,
+      "width": "100px"
+    },
+    {
+      "key": "lead.name",
+      "label": "Lead Name",
+      "visible": true,
+      "allowHide": true,
+      "width": "200px"
+    },
+    {
+      "key": "lead.defaultMobile",
+      "label": "Mobile",
+      "visible": true,
+      "allowHide": true,
+      "width": "200px"
+    },
+    {
+      "key": "agent.name",
+      "label": "agent",
+      "visible": true,
+      "allowHide": true,
+      "width": "200px"
+    },
+    {
+      "key": "stage",
+      "label": "stage",
+      "visible": true,
+      "allowHide": true,
+      "width": "250px"
+    },
+    {
+      "key": "activity_date",
+      "label": "Date",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "visible": true,
+      "allowHide": true,
+      "width": "80px"
+    },
+    {
+      "key": "actions",
+      "label": "",
+      "visible": true,
+      "allowHide": false,
+      "width": "150px"
+    }
+  ]
+}

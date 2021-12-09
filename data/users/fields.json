@@ -1,0 +1,46 @@
+{
+    "fields":[
+      {
+        "key":"id",
+        "label":"ID",
+        "visible":true,
+        "allowHide":true,
+        "width" : "50px"
+      },
+      {
+        "key":"name",
+        "label":"Agent Name",
+        "visible":true,
+        "allowHide":true,
+        "width" : "100px"
+      },
+      {
+        "key":"email",
+        "label":"Email Address",
+        "visible":true,
+        "allowHide":true,
+        "width" : "100px"
+      },
+      {
+        "key":"mobile",
+        "label":"Mobile",
+        "visible":true,
+        "allowHide":true,
+        "width" : "100px"
+      },
+      {
+        "key":"status",
+        "label":"Status",
+        "visible":true,
+        "allowHide":true,
+        "width" : "100px"
+      },
+      {
+        "key":"actions",
+        "label":"",
+        "visible":true,
+        "allowHide":false,
+        "width" : "150px"
+      }
+    ]
+  }

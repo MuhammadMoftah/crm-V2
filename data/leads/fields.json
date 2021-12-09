@@ -1,0 +1,160 @@
+{
+  "fields": [
+    {
+      "key": "id",
+      "label": "ID",
+      "visible": true,
+      "allowHide": true,
+      "width": "120px"
+    },
+    {
+      "key": "name",
+      "label": "name",
+      "visible": true,
+      "allowHide": true,
+      "width": "200px"
+    },
+    {
+      "key": "defaultMobile",
+      "label": "Mobile",
+      "visible": true,
+      "allowHide": true,
+      "width": "200px"
+    },
+    {
+      "key": "project.name",
+      "label": "project",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "agent.name",
+      "label": "agent",
+      "visible": true,
+      "allowHide": true,
+      "width": "200px"
+    },
+    {
+      "key": "agent.parent.name",
+      "label": "Team Leader",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "franchise.name",
+      "label": "Franchise",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "stage",
+      "label": "stage",
+      "visible": true,
+      "allowHide": true,
+      "width": "250px"
+    },
+
+    {
+      "key": "source.name",
+      "label": "Source",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "channel.name",
+      "label": "Channel",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+
+    {
+      "key": "campaign.name",
+      "label": "Campaign",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "creator.name",
+      "label": "Creator",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "last_assign_at",
+      "label": "Assign Date",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "created_at",
+      "label": "Created Date",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "last_lead_activity.feedback",
+      "label": "Last Activity",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "last_lead_activity.agent.name",
+      "label": "Last Activity Agent",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "last_comment.comment",
+      "label": "Last Comment",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "last_comment.commenter.name",
+      "label": "last Comment by",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "tags",
+      "label": "tags",
+      "visible": true,
+      "allowHide": true,
+      "width": "250px"
+    },
+    {
+      "key": "lastLog.created_at",
+      "label": "last log",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "lastLog.assigner.name",
+      "label": "last log assigner",
+      "visible": true,
+      "allowHide": true,
+      "width": "150px"
+    },
+    {
+      "key": "actions",
+      "label": "",
+      "visible": true,
+      "allowHide": false,
+      "width": "150px"
+    }
+  ]
+}

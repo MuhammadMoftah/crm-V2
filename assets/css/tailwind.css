@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ==== Components ====  */
+@layer components {
+  .btn-blue {
+    @apply px-4 py-2 font-semibold text-white bg-blue-500 rounded-lg shadow-md cursor-pointer hover:bg-blue-700 focus:outline-none;
+  }
+  .theme-shadow {
+    box-shadow: 0px 2px 3px 0px #ececec;
+  }
+  .page-title {
+    @apply text-xl font-semibold text-blue-gray-700;
+  }
+}
